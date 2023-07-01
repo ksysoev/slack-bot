@@ -1,4 +1,4 @@
-module github.com/ksysoev/slack-bot
+module github.com/ksysoev/solution-evaluator
 
 go 1.20
 
